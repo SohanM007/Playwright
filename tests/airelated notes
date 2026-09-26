@@ -1,0 +1,35 @@
+//what should we put on the si agent
+
+/*
+go to "url" :"https://rahulshettyacademy.com/client/#/auth/login",
+"email":"m82525906@gmail.com" ,
+"password":"sohan4@gmail" ,
+and for the above url i have provided the username and password.I applied the POM method on the framework to develped the playwright automation framework.
+for cart pafe and payment page, still the development of framework is not yet done.
+I want you to outline all the secenario required to generate the plan and based on that i will take further steps.
+Give me plan for cart and payment page
+
+//second instuction 
+
+based on the different plan that you created, I want you to follow the below approach.
+same as my structure of code or project ,create a playwright TS framework for cart page and payment page ,don't add all the scenario just a basic like product in cart and move to payment page and order confirmation.Make sure there is page class for cart page and payment page,and testdata for payement page .
+
+//third instruction
+
+generate the file in the current folder
+
+*/
+
+//created page 
+/*
+//page
+1.cartpage.TS
+2.payementPage.TS
+//testdata
+1.payement.json
+//tests
+1.cartPaymentTest.spec.ts
+2.
+
+
+*/

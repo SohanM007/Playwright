@@ -1,0 +1,25 @@
+[
+  {
+"url" :"https://rahulshettyacademy.com/client/#/auth/login",
+"email":"m82525906@gmail.com" ,
+"password":"sohan4@gmail" ,
+"productName":"ADIDAS ORIGINAL",
+ "successMessage":"Product Added To cart"
+},
+{
+  "url" :"https://rahulshettyacademy.com/client/#/auth/login",
+"email":"m82525906@gmail.com" ,
+"password":"sohan4@gmail" ,
+"productName":"ZARA COAT 3",
+ "successMessage":"Product Added To cart"
+},
+{
+  "url" :"https://rahulshettyacademy.com/client/#/auth/login",
+"email":"m82525906@gmail.com" ,
+"password":"sohan4@gmail" ,
+"productName":"iphone 13 pro",
+ "successMessage":"Product Added To cart"
+
+}
+
+]

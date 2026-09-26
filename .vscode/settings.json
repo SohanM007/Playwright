@@ -1,0 +1,7 @@
+{
+  "chat.extensionUnification.enabled": true,
+  "chat.disableAIFeatures": false,
+  "chat.defaultToCopilotHarness": false,
+  "github.copilot.chat.agent.autoFix": false,
+  "chat.byokUtilityModelDefault": "mainAgent"
+}
