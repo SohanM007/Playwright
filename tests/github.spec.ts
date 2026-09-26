@@ -48,11 +48,16 @@ Github is web based version control used by Devops pipeline setup and by dev tea
   8. git commit -m "new changes"   //commit the changes to the local repository
   9. git push          //push the changes to the remote repository
      on the above line you will get one recommended command to push the changes to the remote repository. copy that command and paste it in the terminal.
-  10. Now go to the github repository and check if the changes are reflected or not.
-  11. Now create a pull request to merge the changes to the main branch.
-  12. After the pull request is created, you need to wait for the approval from the team lead or manager.
-  13. Once the pull request is approved, you can merge the changes to the main branch.
+  
+//After above steps ,we need to goto Github and create a pull request to merge the changes to the main branch.
+
+//create pull request in github :::
+ 1. Goto github >> click on the pull request >> click on new pull request >> select the branch you created and click on create pull request >> add some description and click on create pull request.
+ 2. Now the pull request is created and you need to wait for the approval from the team lead or manager.
+ 3. Once the pull request is approved, you can merge the changes to the main branch by clicking on the merge pull request button.
        
+
+
 
 
 
